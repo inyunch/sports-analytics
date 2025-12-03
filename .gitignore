@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (optional - uncomment if you don't want to track data)
+# data/raw/*.csv
+# data/raw/*.xlsx
+# data/processed/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Removed files from old System 1 (MLB & CPBL Analytics)
+# Documentation
+README_WIN_RATE.md
+QUICKSTART_WIN_RATE.md
+MLB_WIN_RATE_SUMMARY.md
+PROJECT_SUMMARY.md
+QUICK_START.md
+SETUP.md
+CORRELATION_ANALYSIS.md
+PREDICTION_GUIDE.md
+PITCHER_IP_FIX.md
+STREAMLIT_LAUNCH_GUIDE.md
+MLB_WIN_RATE_PROJECT.md
+
+# Python files
+run_analysis.py
+test_data_integrity.py
+streamlit_app/
+
+# Data processing modules (old system)
+src/data_processing/data_loader.py
+src/data_processing/data_cleaner.py
+src/data_processing/data_integration.py
+
+# Analytics modules (old system)
+src/analytics/performance_metrics.py
+src/analytics/team_insights.py
+src/analytics/correlation_analysis.py
