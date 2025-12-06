@@ -591,7 +591,8 @@ The app will open in your browser at `http://localhost:8501`
    - Albert, J. & Marchi, M. (2013). *Analyzing Baseball Data with R*.
 
 ### Data Sources
-- **Baseball Reference:** https://www.baseball-reference.com/
+
+[//]: # (- **Baseball Reference:** https://www.baseball-reference.com/)
 - **FanGraphs:** https://www.fangraphs.com/
 
 ### Technical Resources
